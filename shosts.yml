@@ -1,0 +1,8 @@
+[ios]
+R1 ansible_ssh_host=10.219.2.151 ansible_ssh_user=admin
+[iosxr]
+CSR ansible_ssh_host=10.219.2.53 ansible_ssh_user=admin
+[nxos]
+Host-B ansible_ssh_host=10.219.2.152 ansible_ssh_user=admin
+Host-A ansible_ssh_host=10.219.2.150 ansible_ssh_user=admin
+
